@@ -1,5 +1,5 @@
 build:
   id: 9999
   version: 1000.1
-  name: "Dev GIT Build Feature1"
-  type: "Dev GIT build"
+  name: "Default GIT Build Feature1"
+  type: "Default GIT build"
